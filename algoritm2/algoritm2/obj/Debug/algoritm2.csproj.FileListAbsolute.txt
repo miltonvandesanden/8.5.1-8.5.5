@@ -7,3 +7,12 @@ C:\Users\milton\Desktop\algoritm2\algoritm2\obj\Debug\algoritm2.Properties.Resou
 C:\Users\milton\Desktop\algoritm2\algoritm2\obj\Debug\algoritm2.csproj.GenerateResource.Cache
 C:\Users\milton\Desktop\algoritm2\algoritm2\obj\Debug\algoritm2.exe
 C:\Users\milton\Desktop\algoritm2\algoritm2\obj\Debug\algoritm2.pdb
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\bin\Debug\algoritm2.exe.config
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.exe
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.pdb
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\bin\Debug\algoritm2.exe
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\bin\Debug\algoritm2.pdb
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.csprojResolveAssemblyReference.cache
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.Form1.resources
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.Properties.Resources.resources
+C:\Users\milton\Documents\GitHub\8.5.1-8.5.5\algoritm2\algoritm2\obj\Debug\algoritm2.csproj.GenerateResource.Cache

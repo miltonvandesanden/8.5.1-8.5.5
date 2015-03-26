@@ -48,8 +48,7 @@
             this.cbSortMethod.Items.AddRange(new object[] {
             "bubblesort",
             "selectionsort",
-            "insertionsort",
-            "mergesort"});
+            "insertionsort"});
             this.cbSortMethod.Location = new System.Drawing.Point(12, 12);
             this.cbSortMethod.Name = "cbSortMethod";
             this.cbSortMethod.Size = new System.Drawing.Size(121, 21);

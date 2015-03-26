@@ -28,7 +28,13 @@ namespace algoritm2
 
         private void btnSort_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Convert.ToString(numbers));
+            numbersString = "";
+            foreach (int number in numbers)
+            {
+                numbersString += number + ", ";
+            }
+            numbersString += " [" + timesSorted + "]";
+            MessageBox.Show(numbersString);
 
             switch (cbSortMethod.Text)
             {
@@ -84,6 +90,7 @@ namespace algoritm2
 
                         timesSorted++;
 
+                        /*
                         numbersString = "";
                         foreach (int number in numbers)
                         {
@@ -92,9 +99,16 @@ namespace algoritm2
                         numbersString += " [" + timesSorted + "]";
 
                         MessageBox.Show(numbersString);
+                         */
                     }
                 }
             }
+            numbersString = "";
+            foreach (int number in numbers)
+            {
+                numbersString += number + ", ";
+            }
+            numbersString += " [" + timesSorted + "]";
             MessageBox.Show("Result: " + numbersString);
         }
 
@@ -118,6 +132,7 @@ namespace algoritm2
 
                         timesSorted++;
 
+                        /*
                         numbersString = "";
                         foreach (int number in numbers)
                         {
@@ -126,9 +141,16 @@ namespace algoritm2
                         numbersString += " [" + timesSorted + "]";
 
                         MessageBox.Show(numbersString);
+                         */
                     }
                 }
             }
+            numbersString = "";
+            foreach (int number in numbers)
+            {
+                numbersString += number + ", ";
+            }
+            numbersString += " [" + timesSorted + "]";
             MessageBox.Show("Result: " + numbersString);
         }
 
@@ -150,6 +172,7 @@ namespace algoritm2
 
                     timesSorted++;
 
+                    /*
                     numbersString = "";
                     foreach (int number in numbers)
                     {
@@ -158,8 +181,15 @@ namespace algoritm2
                     numbersString += " [" + timesSorted + "]";
 
                     MessageBox.Show(numbersString);
+                     */
                 }
             }
+            numbersString = "";
+            foreach (int number in numbers)
+            {
+                numbersString += number + ", ";
+            }
+            numbersString += " [" + timesSorted + "]";
             MessageBox.Show("Result: " + numbersString);
         }
     }
