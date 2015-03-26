@@ -13,8 +13,17 @@ namespace algoritm2
 {
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// numbers is a list of ints that contains a predefined set of numbers.
+        /// </summary>
         private List<int> numbers;
+        /// <summary>
+        /// numbersString is a string that consists of all the numbers from numbers and are devided by ", " and timeSorted is added at the end between "[" and "]".
+        /// </summary>
         private string numbersString;
+        /// <summary>
+        /// timeSorted is an int that counts the amount of times two numbers are being sorted.
+        /// </summary>
         private int timesSorted;
 
         public Form1()
@@ -55,6 +64,9 @@ namespace algoritm2
             }
         }
 
+        /// <summary>
+        /// Reset resets the list numbers to a predefined state and sets the variables to their standard values.
+        /// </summary>
         private void Reset()
         {
             numbers.Clear();
@@ -75,7 +87,9 @@ namespace algoritm2
             numbersString = "";
             timesSorted = 0;
         }
-
+        /// <summary>
+        /// BubbleSort sorts the list numbers following the Bubble algoritm.
+        /// </summary>
         private void BubbleSort()
         {
             for (int write = 0; write < numbers.Count; write++)
@@ -111,7 +125,9 @@ namespace algoritm2
             numbersString += " [" + timesSorted + "]";
             MessageBox.Show("Result: " + numbersString);
         }
-
+        /// <summary>
+        /// SelectionSort sorts the list numbers following the Selection algoritm.
+        /// </summary>
         private void SelectionSort()
         {
             int i;
@@ -153,7 +169,9 @@ namespace algoritm2
             numbersString += " [" + timesSorted + "]";
             MessageBox.Show("Result: " + numbersString);
         }
-
+        /// <summary>
+        /// InsertionSort sorts the list numbers following the insertion algoritm.
+        /// </summary>
         private void InsertionSort()
         {
             for (int i = 0; i < numbers.Count - 1; i++)
