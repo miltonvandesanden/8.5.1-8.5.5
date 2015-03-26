@@ -1,0 +1,9 @@
+C:\Users\milton\Desktop\algoritm\algoritm\bin\Debug\algoritm.exe.config
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.csprojResolveAssemblyReference.cache
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.Form1.resources
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.Properties.Resources.resources
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.csproj.GenerateResource.Cache
+C:\Users\milton\Desktop\algoritm\algoritm\bin\Debug\algoritm.exe
+C:\Users\milton\Desktop\algoritm\algoritm\bin\Debug\algoritm.pdb
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.exe
+C:\Users\milton\Desktop\algoritm\algoritm\obj\Debug\algoritm.pdb
